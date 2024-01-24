@@ -29,11 +29,6 @@ Users should be able to:
 ### Mobile Preview
 ![](/screenshots/Mobile%20Design.png)
 
-### Links
-
-- Solution URL: https://github.com/Udaya-Gupta/stats-preview-frontendmentor.git
-- Live Site URL: Add live site URL here
-
 ## My process
 
 ### Built with
